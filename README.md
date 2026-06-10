@@ -25,7 +25,7 @@ enterprise-scale engagements involving ransomware, nation-state APT activity, an
 ### 🚀 Community Contributions
 ---
 
-- 🌐 **[DFIRDominican.com](https://dfirdominican.com)**: A DFIR technical blog, resource hub, and global jobs board built to give back to the practitioner community.
+- 🌐 **Personal Blog**: [DFIRDominican.com](https://dfirdominican.com) - A DFIR technical blog, resource hub, and global jobs board built to give back to the practitioner community.
 - 📝 **Independent Research:** [How to Break Into DFIR](https://dfirdominican.com/how-to-break-into-dfir-part-1-of-5-cybersecurity-fundamentals) (5-part series), [Anti-Forensics: Timestomping](https://www.kroll.com/en/publications/cyber/anti-forensic-tactics) (5-part series), [GX-FE](https://dfirdominican.com/gx-fe-exam-my-experience/) & [GX-FA](https://dfirdominican.com/gx-fa-exam-my-experience/) Exam Guides, [PsExec key identification](https://dfirdominican.com/the-key-to-identify-psexec/), and more.
 - 🎙️ **Guest Speaker**: University of Arkansas at Little Rock - [A Day In The Life: Incident Response](https://www.linkedin.com/posts/isaac-gonzalez-186090315_the-ualr-cysec-club-and-i-would-like-to-give-share-7323542684776701952-HGuH) (Apr 2025)
 - 👨‍🏫 **SANS Institute Virtual Teaching Assistant**: FOR500: Windows Forensic Analysis & FOR608: Enterprise-Class Incident Response & Threat Hunting (Nov 2024 - Feb 2026)
