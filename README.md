@@ -1,6 +1,6 @@
 # Fabian Mendoza
 
-**Senior Incident Response Analyst at Elastic**  
+**Director, DFIR Consulting at CYPFER**  
 _DFIR · Threat Hunting · Threat Intelligence · Detection Engineering_
 
 7+ years across digital forensics and incident response (DFIR) from delivering breach investigations at Kroll, CrowdStrike, KPMG, and Unit 42 to serving as incident commander at Elastic. I've responded to 200+
