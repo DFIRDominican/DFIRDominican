@@ -1,9 +1,9 @@
 # Fabian Mendoza
 
-**Director, DFIR Consulting at CYPFER**  
+**Director, DFIR Consulting at AprosSyber**  
 _DFIR · Threat Hunting · Threat Intelligence · Detection Engineering_
 
-I lead DFIR consulting at CYPFER, directing breach investigations and incident response for organizations facing ransomware, nation-state APT activity, and zero-day exploitation. Over 7+ years I've responded to 230+ enterprise-scale engagements across Kroll, CrowdStrike, KPMG, Unit 42, and Elastic — moving from hands-on forensic analyst to incident commander to practice leadership. Outside of casework, I build community resources like DFIRDominican.com to help other practitioners sharpen their craft.
+I lead DFIR consulting at AprosSyber, directing breach investigations and incident response for organizations facing ransomware, nation-state APT activity, and zero-day exploitation. Over 7+ years I've responded to 230+ enterprise-scale engagements across Kroll, CrowdStrike, KPMG, Unit 42, and Elastic — moving from hands-on forensic analyst to incident commander to practice leadership. Outside of casework, I build community resources like DFIRDominican.com to help other practitioners sharpen their craft.
 
 ### 🛠️ Core Toolbox
 ---
